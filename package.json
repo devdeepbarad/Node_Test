@@ -1,0 +1,27 @@
+{
+    "name": "first",
+    "version": "1.0.0",
+    "description": "Test Program",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/devdeepbarad/Node_Test.git"
+    },
+    "keywords": [
+        "First",
+        "Node",
+        "Program"
+    ],
+    "author": "Devdeep Barad",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/devdeepbarad/Node_Test/issues"
+    },
+    "homepage": "https://github.com/devdeepbarad/Node_Test#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
